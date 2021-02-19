@@ -21,3 +21,6 @@ To change the files that the program processes, the **dir** var on line 12 is cu
 The starting median is the average of the first month, the ending median is the last month. The percent change in median should go down for improvement, as it will get smaller as traces are more aligned to the map. The Geographical Improvement is the average percent change in median over all tiles, which should show a positive number for improvement.
 
 
+##Submit_Job.py
+This file is included to help in creating multiple jobs for the same area. Use the MapMetrics API and enter the Long/Lat values as a list in the program, and it will generate the runs. Then download in the folder as shown above
+
