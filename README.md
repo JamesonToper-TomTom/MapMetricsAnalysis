@@ -5,10 +5,10 @@ The program functions by taking in two files, each from two different time perio
 #### Changing cities
 To change the files that the program processes, the **dir** var on line 12 is currently where you change the file location. It currently expects a folder with two MapMetrics jobs using the same bouding box.
 ###### Example City Setup
-![](https://raw.githubusercontent.com/JamesonToper-TomTom/MapMetricsAnalysis/main/README/file_example.png?token=ASS7K6MIBTTBKFNAR2GK3A3AGAEHW)
+![](https://raw.githubusercontent.com/JamesonToper-TomTom/MapMetricsAnalysis/main/README/file_example.png)
 
 ###### Changing Directory
-![](https://raw.githubusercontent.com/JamesonToper-TomTom/MapMetricsAnalysis/main/README/dir_example.png?token=ASS7K6OP42ZTAY5RQGNG3MLAGAEOK)
+![](https://raw.githubusercontent.com/JamesonToper-TomTom/MapMetricsAnalysis/main/README/dir_example.png)
 
 #### Example Output
 
